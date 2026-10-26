@@ -2,6 +2,10 @@
 
 A 3D mecha combat game for Windows, made with **Godot 4.7.2**. Pilot a 10-metre-tall mecha for the **Union** (blue) against the **Empire** (red): skate, boost, fly, shoot, fire shoulder missiles, deploy flares and lunge-slash enemy mechas.
 
+## ⬇️ [Download for Windows — GameMecha_Windows.zip (325 MB)](https://github.com/nxtr1609/game-mecha/releases/download/v0.1/GameMecha_Windows.zip)
+
+**Tải bản chơi cho Windows:** bấm link trên. (Nút xanh "Code → Download ZIP" chỉ tải mã nguồn, không có file .exe.)
+
 *Tiếng Việt ở bên dưới.*
 
 ![Ruined city](docs/gioi_thieu.jpg)
@@ -9,7 +13,7 @@ A 3D mecha combat game for Windows, made with **Godot 4.7.2**. Pilot a 10-metre-
 
 ## Download and play
 
-1. Open **[Releases](../../releases)** and download the latest `GameMecha_Windows.zip`.
+1. Download **[GameMecha_Windows.zip](https://github.com/nxtr1609/game-mecha/releases/download/v0.1/GameMecha_Windows.zip)** (or open **[Releases](../../releases)**). The green "Code → Download ZIP" button gives only the source code, without the .exe.
 2. Unzip it anywhere and run **`GameMecha.exe`**. No install needed.
 
 Windows may show a "Windows protected your PC" warning because the game is not signed: click **More info → Run anyway**.
@@ -62,7 +66,7 @@ Game bắn mecha 3D cho Windows, làm bằng **Godot 4.7.2**. Lái mecha cao 10 
 
 ## Tải và chơi
 
-1. Vào mục **[Releases](../../releases)**, tải `GameMecha_Windows.zip` mới nhất.
+1. Tải **[GameMecha_Windows.zip](https://github.com/nxtr1609/game-mecha/releases/download/v0.1/GameMecha_Windows.zip)** (hoặc vào mục **[Releases](../../releases)**). Nút xanh "Code → Download ZIP" chỉ tải mã nguồn, không có file .exe.
 2. Giải nén ra đâu cũng được rồi chạy **`GameMecha.exe`**. Không cần cài đặt.
 
 Windows có thể báo "Windows protected your PC" vì game chưa được ký số: bấm **More info → Run anyway**.
