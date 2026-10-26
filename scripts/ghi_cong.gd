@@ -15,6 +15,8 @@ const DANH_SACH := [
 		"link": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky", "dung_cho": "Bầu trời (ngoại ô, đồng quê, bãi tập)"},
 	{"ten": "Concrete Floor Worn 001", "tac_gia": "Poly Haven", "giay_phep": "CC0 1.0",
 		"link": "https://polyhaven.com/a/concrete_floor_worn_001", "dung_cho": "Bê tông mặt đường, vỉa hè, quảng trường, tường đổ, cầu, sàn hangar ở menu"},
-	{"ten": "Stable Audio 3 Medium", "tac_gia": "Stability AI", "giay_phep": "Giấy phép mô hình của Stability AI (mã nguồn MIT)",
-		"link": "https://huggingface.co/stabilityai/stable-audio-3-medium", "dung_cho": "Mô hình tạo âm thanh: mọi tiếng động trong game do người làm game tự tạo bằng mô hình này"},
+	{"ten": "Audio Studio MCP", "tac_gia": "KanaWorks_AI — 東京AI映像合同会社 (Tokyo AI Visuals LLC)", "giay_phep": "MIT",
+		"link": "https://github.com/kanaworksai-hue/audio-studio-mcp", "dung_cho": "Công cụ tạo âm thanh: mọi tiếng động trong game được tạo bằng công cụ này, chạy trên máy người làm game"},
+	{"ten": "Stable Audio 3 Medium", "tac_gia": "Stability AI", "giay_phep": "Stability AI Community License",
+		"link": "https://huggingface.co/stabilityai/stable-audio-3-medium", "dung_cho": "Mô hình tạo âm thanh mà Audio Studio MCP dùng"},
 ]

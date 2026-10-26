@@ -64,9 +64,14 @@ Ghi công theo CC BY 4.0: "Sci-Fi Shipping Crate" của David W CG, giấy phép
 ## Âm thanh
 
 58 tiếng động trong `am_thanh/` (động cơ, bước chân, súng, nổ, cảnh báo…) do người làm game tự tạo trên máy của mình
-bằng mô hình **Stable Audio 3 Medium** của **Stability AI** (mã nguồn MIT, trọng số theo giấy phép mô hình của
-Stability AI — https://huggingface.co/stabilityai/stable-audio-3-medium), rồi cắt, chỉnh âm lượng, xuất OGG.
-Game không dùng tiếng tải về.
+rồi cắt, chỉnh âm lượng, xuất OGG. Game không dùng tiếng tải về.
+
+| Tác phẩm | Tác giả | Giấy phép | Link | Dùng cho |
+|---|---|---|---|---|
+| **Audio Studio MCP** | **KanaWorks_AI** — 東京AI映像合同会社 (Tokyo AI Visuals LLC) | MIT | https://github.com/kanaworksai-hue/audio-studio-mcp | Công cụ tạo toàn bộ tiếng động trong game |
+| Stable Audio 3 Medium | Stability AI | Stability AI Community License | https://huggingface.co/stabilityai/stable-audio-3-medium | Mô hình tạo âm thanh mà Audio Studio MCP dùng |
+
+Cảm ơn KanaWorks_AI đã chia sẻ Audio Studio MCP. Tên KanaWorks_AI, logo và nhân vật Kana thuộc 東京AI映像合同会社, game không dùng hình ảnh nào của họ.
 
 ## Phần mềm
 
