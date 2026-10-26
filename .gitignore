@@ -1,0 +1,11 @@
+# Godot
+.godot/
+*.translation
+
+# Ban xuat (dang o muc Releases, khong de trong repo)
+build/
+*.zip
+
+# He dieu hanh
+Thumbs.db
+desktop.ini

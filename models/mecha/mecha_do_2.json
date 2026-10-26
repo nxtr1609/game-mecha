@@ -1,0 +1,135 @@
+{
+ "ten": "mecha_do_2",
+ "nguon": "tripo_convert_101f1bcd-f7d6-4b52-9cf0-5293c7b0c596.fbx",
+ "co_vu_khi": false,
+ "day": -0.3809,
+ "o_ten_lua": {
+  "trai": [
+   "LeftShoulder",
+   [
+    1.6976,
+    9.1011,
+    0.6717
+   ],
+   [
+    0,
+    0,
+    1
+   ]
+  ],
+  "phai": [
+   "RightShoulder",
+   [
+    -1.6976,
+    9.1011,
+    0.6717
+   ],
+   [
+    0,
+    0,
+    1
+   ]
+  ]
+ },
+ "de_phu": [
+  {
+   "ten": "trai",
+   "xuong": "LeftShoulder",
+   "vt": [
+    1.6976,
+    9.1011,
+    -0.6009
+   ],
+   "mac_dinh": "ong_ten_lua",
+   "kich_thuoc": [
+    1.7684,
+    1.7978,
+    -2.5452
+   ]
+  },
+  {
+   "ten": "phai",
+   "xuong": "RightShoulder",
+   "vt": [
+    -1.6976,
+    9.1011,
+    -0.6009
+   ],
+   "mac_dinh": "ong_ten_lua",
+   "kich_thuoc": [
+    1.7684,
+    1.7978,
+    -2.5452
+   ]
+  },
+  {
+   "ten": "giua",
+   "xuong": "UpperChest",
+   "vt": [
+    0.0,
+    7.1875,
+    -0.5203
+   ],
+   "mac_dinh": ""
+  }
+ ],
+ "ghi_chu_de_phu": "3 de phu: trai, phai (mac dinh o ten lua, nam lien trong luoi mecha), giua lung (trong). Sau nay thay o ten lua bang vu khi khac: cat khoi o ten lua khoi luoi roi gan vu khi vao vi tri de.",
+ "voi": [
+  [
+   "UpperChest",
+   [
+    0.6,
+    6.7383,
+    -0.5203
+   ],
+   [
+    0,
+    -0.15,
+    -1
+   ],
+   "vai"
+  ],
+  [
+   "UpperChest",
+   [
+    -0.6,
+    6.7383,
+    -0.5203
+   ],
+   [
+    0,
+    -0.15,
+    -1
+   ],
+   "vai"
+  ],
+  [
+   "LeftLowerLeg",
+   [
+    1.7782,
+    1.7924,
+    -1.0489
+   ],
+   [
+    0,
+    -0.3,
+    -1
+   ],
+   "chan"
+  ],
+  [
+   "RightLowerLeg",
+   [
+    -1.7392,
+    1.7924,
+    -1.0478
+   ],
+   [
+    0,
+    -0.3,
+    -1
+   ],
+   "chan"
+  ]
+ ]
+}
